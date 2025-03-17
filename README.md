@@ -63,19 +63,9 @@ Team Members
 • **Lead Developer:** [Chand Shaik](https://www.linkedin.com/in/chand-shaik-2082b256/)
 • **Frontend & Master Pages:** [Pooja Gundami](https://www.linkedin.com/in/pooja-gundami/)
 • **Project Contributor & Backend:** [Bhushan Kumar Yadav](https://www.linkedin.com/in/bhushan-kumar-yadav-840200333/)
-🌟 Contributing
 
-We welcome contributions! Feel free to fork this repository and submit pull requests.
 
-  git checkout -b new-feature
-  git commit -m "Add new feature"
-  git push origin new-feature
-  Open a pull request on GitHub
+## 🚨 Important Notice  
+This project is proprietary and is displayed publicly for portfolio purposes only.  
+Unauthorized use, modification, or distribution is strictly prohibited.  
 
-🐜 License
-
-This project is licensed under the MIT License.
-
-📞 Contact
-
-For any queries, reach out to the team via GitHub Issues on LinkedIn.
