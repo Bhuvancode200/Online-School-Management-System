@@ -1,0 +1,86 @@
+/* Sidebar.css */
+
+/* src/VerticalMenu.css */
+
+.Sidebar-menu {
+  margin-top: 70px;
+  width: 200px;
+  background-color: #3f2739;
+  padding-top: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.menu-item {
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block;
+  border-bottom: 1px solid #444;
+  transition: background-color 0.3s ease;
+}
+
+.menu-item:hover {
+  background-color: #B0C7D3;
+}
+
+.menu-item:active {
+  background-color: #333;
+}
+
+.menu-item:focus {
+  outline: none;
+}
+.ParagrahCenter {
+  padding-left: 220px;
+  text-decoration: none;
+  font-size: 18px;
+  
+
+}
+.CompanyHeader {
+   width: 100%;
+background-color:#804e69; 
+  /* padding-top: 20px; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 70px;
+  color: white;
+  text-align: center; 
+  display: flex;
+  justify-content: space-between;
+  /* background-image: url('./Components/Assets/Icons/Bg2.jpg'); */
+
+
+  /* padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f5f5f5; Adjust as needed */
+
+}
+
+/* Style for the image button */
+.profile-image-button {
+  width: 60px;  /* Set your desired size */
+  height: 60px;  /* Set your desired size */
+  border-radius: 50%;  /* Make it round */
+  cursor: pointer;
+  margin-top: 20px;
+  transition: transform 0.3s ease;  /* For smooth hover effect */
+}
+
+.profile-image-button:hover {
+  transform: scale(1.1);  /* Enlarge the image slightly on hover */
+}
+
+/* .background1 {
+  background-image: url('./Components/Assets/Icons/Bg2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+} */
