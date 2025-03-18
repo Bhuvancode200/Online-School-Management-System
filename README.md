@@ -60,6 +60,8 @@ Authentication & Authorization
 ✅ Role-based access control (Admin, Teacher, Student)
 ✅ Secure API authentication using JWT
 Team Members
+
+
 • **Lead Developer:** [Chand Shaik](https://www.linkedin.com/in/chand-shaik-2082b256/)
 • **Frontend & Master Pages:** [Pooja Gundami](https://www.linkedin.com/in/pooja-gundami/)
 • **Project Contributor & Backend:** [Bhushan Kumar Yadav](https://www.linkedin.com/in/bhushan-kumar-yadav-840200333/)
