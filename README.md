@@ -1,2 +1,0 @@
-# Online-School-Management-System
- 
