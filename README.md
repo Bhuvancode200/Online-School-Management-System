@@ -44,7 +44,7 @@ Online-School-Management-System/</br>
 │   ├── public/</br>
 │   ├── package.json         # Dependencies</br>
 │   ├── README.md            # Frontend Docs</br>
-│── README.md                # Project Documentation</br>
+
 </br>
 <h4>Features</h4>
 Admin Panel</br>
